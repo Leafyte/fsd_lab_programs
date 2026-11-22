@@ -27,9 +27,9 @@ node app.js
 
 ## Testing
 
-POST
-http://localhost:3000/students
-(every time send POST with different student details)
-GET
-http://localhost:3000/students
+POST\
+http://localhost:3000/students\
+(every time send POST with different student details)\
+GET\
+http://localhost:3000/students\
 Check database stored in studentDB
