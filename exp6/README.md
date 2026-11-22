@@ -2,21 +2,23 @@
 
 ## Execution Steps
 
-Open MongoDB Compass/
-Click on: Add new connection/
-Name: studentDB/
-Click: Save & connect/ 
+Open MongoDB Compass
+
+Click on: Add new connection
+
+Name: studentDB
+
+Click: Save & connect
+
 Open Postman
 
-
 ### Valid JSON
-{
-    "name": "Rahul S",
-    "usn": "4VV23CS007",
-    "branch": "CSE",
-    "semester": 5
+{/
+    "name": "Rahul S",/
+    "usn": "4VV23CS007",/
+    "branch": "CSE",/
+    "semester": 5/
 }
-
 
 ### Terminal
 
