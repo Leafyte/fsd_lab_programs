@@ -16,7 +16,7 @@ http://localhost:3000/user/register
 "age":25\
 }
 
-Output
+## Output
 Validation Successful
 
 ### Invalid JSON
@@ -28,8 +28,8 @@ Validation Successful
 }
 
 ## Output
-Name is required
-Invalid email format
+Name is required\
+Invalid email format\
 Age must be at least 18
 
 ## Result
