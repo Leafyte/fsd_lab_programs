@@ -5,8 +5,12 @@
 node app.js
 
 ## Outputs
-- [Students Home](http://localhost:3000/college/students/)
-- [View Student Profile](http://localhost:3000/college/students/profile/view)
-- [Student Profile by ID](http://localhost:3000/college/students/profile/:id/)
-- [View Marks](http://localhost:3000/college/marks/view/)
-- [Marks by ID](http://localhost:3000/college/marks/:id/)
+http://localhost:3000/college/students/
+
+http://localhost:3000/college/students/profile/view
+
+http://localhost:3000/college/students/profile/:id/
+
+http://localhost:3000/college/marks/view/
+
+http://localhost:3000/college/marks/:id/
