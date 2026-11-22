@@ -1,15 +1,15 @@
 # Design and configure hierarchical routing in Express.js using a modular approach with separate routes, enabling structured URL handling and applying middleware at appropriate route levels for efficient request processing and scalability.
 
-Execution Steps:
+## Execution Steps:
 
 node app.js
 
-Testing
+## Testing
 
 POST
 http://localhost:3000/user/register
 
-Valid JSON
+### Valid JSON
 {
 "name":"John",
 "email":"john@gmail.com",
@@ -19,7 +19,7 @@ Valid JSON
 Output
 Validation Successful
 
-Invalid JSON
+### Invalid JSON
 
 {
 "name":"",
@@ -27,10 +27,10 @@ Invalid JSON
 "age":15
 }
 
-Output
+## Output
 Name is required
 Invalid email format
 Age must be at least 18
 
-Result
+## Result
 Successfully implemented request validation using express-validator middleware.
