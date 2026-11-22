@@ -10,22 +10,22 @@ POST
 http://localhost:3000/user/register
 
 ### Valid JSON
-{
-"name":"John",
-"email":"john@gmail.com",
-"age":25
-}
+{\
+"name":"John",\
+"email":"john@gmail.com",\
+"age":25\
+}\
 
 Output
 Validation Successful
 
 ### Invalid JSON
 
-{
-"name":"",
-"email":"abc",
-"age":15
-}
+{\
+"name":"",\
+"email":"abc",\
+"age":15\
+}\
 
 ## Output
 Name is required
